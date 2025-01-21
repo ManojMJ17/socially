@@ -1,0 +1,7 @@
+# Set text files to use LF line endings
+* text=auto
+
+# Set binary files to be ignored by Git's line-ending conversions
+*.png binary
+*.jpg binary
+*.exe binary
